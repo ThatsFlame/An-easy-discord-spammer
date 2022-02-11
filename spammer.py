@@ -3,7 +3,7 @@ import requests
 chan_id = "insert channel id"
 
 payload = {
-    "content" : "sesso oscuro xd"
+    "content" : "insert what u wnat"
 }
 
 header = {
