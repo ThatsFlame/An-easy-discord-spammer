@@ -1,2 +1,2 @@
 # An-easy-discord-spammer
-An easy code made by me to spam discord messagge using http requests
+An easy code made by me to spam discord msgs using http requests
